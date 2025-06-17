@@ -11,7 +11,7 @@ Projeto fullstack com **Node.js + TypeScript (Backend)** e **React + Vite + Type
 - 🛒 Carrinho com valor total e opção de remoção
 - 🔄 Atualização em tempo real das informações
 - 📡 Integração com API backend via Axios
-- 🔗 Navegação entre rotas (`/` e `/carrinho`)
+
 
 ---
 
@@ -30,6 +30,6 @@ Projeto fullstack com **Node.js + TypeScript (Backend)** e **React + Vite + Type
 - [Express](https://expressjs.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [MongoDB](https://www.mongodb.com/)
-- [Mongoose](https://mongoosejs.com/) ou Drizzle ORM (dependendo do seu backend)
+- [Mongoose](https://mongoosejs.com/) 
 
 ---
